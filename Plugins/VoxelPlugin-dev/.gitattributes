@@ -1,0 +1,5 @@
+# Normalize all text files to CRLF (Windows)  
+* text=auto eol=crlf
+
+# Denote all files that are truly binary and should not be modified.
+*.uasset binary
